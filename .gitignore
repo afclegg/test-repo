@@ -1,0 +1,7 @@
+*.csv >> .gitignore
+cat .gitignore
+echo *.csv*
+*.csv >> .gitignore cat .gitignore
+echo *.csv* cat .gitignore
+.Rptoj.user/ cat .gitignore
+.Rptoj.user/
